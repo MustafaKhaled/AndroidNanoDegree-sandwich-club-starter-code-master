@@ -19,11 +19,6 @@
         android:contentDescription="@string/sandwich_picture_content_description"
         android:scaleType="centerCrop" />
 
-    <TextView
-        android:id="@+id/origin_tv"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="5dp" />
 
     <TextView
         android:id="@+id/known_as_hint"
